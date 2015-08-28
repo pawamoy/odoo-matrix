@@ -1,0 +1,4 @@
+dependenpy==1.0.3
+Django==1.7.5
+django-bower==5.0.2
+six==1.9.0

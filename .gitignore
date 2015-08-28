@@ -1,0 +1,6 @@
+*.pyc
+.idea/
+db.sqlite3
+site-packages
+odoo_8.0.latest_all.deb
+stats/
